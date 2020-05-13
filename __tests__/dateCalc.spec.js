@@ -19,4 +19,8 @@ describe('Date testing', () => {
         expect(start.getMonth()).toEqual(start2.getMonth());
         expect(start.getFullYear()).toEqual(start2.getFullYear());
     });
+    test('bla', () => {
+        expect(true).toBe(true);
+
+    });
 })
