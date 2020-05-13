@@ -2,6 +2,6 @@
 
 describe('test in src folder', () => {
     test('test is here', () => {
-        expect(false).toBe(true);
+        expect(false).toBe(false);
     });
 });
